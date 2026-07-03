@@ -1,6 +1,6 @@
-# Bosla-Career-Platform
+# Bosala-Career-Platform
 
-Hello! Welcome to Bosla, a website our group built to help high school students in Saudi Arabia figure out which university major suits them best. Choosing a major can be stressful, so we designed this site to act as a virtual career advisor.
+Hello! Welcome to Bosala, a website our group built to help high school students in Saudi Arabia figure out which university major suits them best. Choosing a major can be stressful, so we designed this site to act as a virtual career advisor.
 
 ## What Our Website Does
 
